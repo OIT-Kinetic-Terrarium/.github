@@ -1,9 +1,10 @@
-# 🌿 Welcome to OIT HealthNet
+# 🌿 Welcome to OIT Kinetic Terrarium
 
-We are an Oregon Institute of Technology (OIT) embedded systems engineering team, weaving together hardware and software to create an event-driven mesh network.
+We are an Oregon Institute of Technology (OIT) embedded systems engineering team, weaving together hardware and software to create an responsive display of mechanical flowers and dynamic lights.
 
 ## 🌙 Our Vision
-Our current endeavor focuses on a **Pub/Sub Modular Mesh Architecture**, which will be connect three different node types, **sensors**, **processors**, and **responders**. This network is intended for personal health awareness and integration with environmental controls or a **personal information system**.
+The **Kinetic Terrarium** bridges the gap between fine metal sculpture and embedded systems engineering. Housed within a 100-to-150-gallon glass display enclosure, the installation features an array of custom-crafted mechanical flora constructed from telescoping brass tubing, tinned copper wire, and translucent silk organza petals. Rather than hiding the electronics behind plastic enclosures, the project utilizes freeform circuit sculpture techniques—using the structural brass stems as electrical ground returns and routing hair-thin enameled magnet wire through hollow stems to illuminate 2,000 embedded LEDs.
+
 
 ## ✨ The Team
 *   **Bryce Kirkaldie** - [Role or Focus Area]
@@ -19,4 +20,4 @@ To keep our collaboration peaceful, steady, and organized, we share the followin
 
 ## 🗺️ Project Navigation
 Explore our interconnected repositories:
-*   [**Project Documentation**](https://github.com/OIT-HealthNet/project-docs) - Ideas, plans, meeting notes, and architecture maps.
+*   [**Project Documentation**](https://github.com/OIT-Kinetic-Terrarium/project-docs) - Ideas, plans, meeting notes, and architecture maps.
